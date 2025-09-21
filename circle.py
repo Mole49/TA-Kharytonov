@@ -9,4 +9,3 @@ print(f"Area of circle: {S:.2f}")
 
 print("\nPress any key to exit...")
 msvcrt.getch()
-
